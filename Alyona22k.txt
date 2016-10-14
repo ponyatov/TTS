@@ -4,6 +4,8 @@
 набор	#n A b o2 r	NOUN
 нашу	#n A1 S u	NOUN
 программирование	#p r @ g r V mm' i2 r @ v @ n' $ $	NOUN
+просто	#p r o2 s t @	NOUN
+списками	#s p' i2 s k @ m' $	NOUN
 строки	#s t r o o k' i	NOUN
 С++	#s i p l' }1 s p l' }1 s	NOUN
 текстовом	#t' e2 k s t V v o1 m	NOUN
