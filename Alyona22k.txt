@@ -1,2 +1,9 @@
+компилятор	#k A m p' $ l' { t @ r	NOUN
 Лексическое	#l' $ k s' i tS' $ s k @ $	ADJECTIVE
 программирование	#p r @ g r V mm' i2 r @ v @ n' $ $	NOUN
+строки	#s t r o k' i2	NOUN
+С++	#s i p l' }1 s p l' }1 s	NOUN
+текстовом	#t' e2 k s t V v o1 m	NOUN
+Arduino	#A1 r d u i2 n o	NOUN
+bison	#b i z o n	NOUN
+NMEA	#n m E2 A	NOUN
