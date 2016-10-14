@@ -1,9 +1,18 @@
+Все	#f s' 92	NOUN
 компилятор	#k A m p' $ l' { t @ r	NOUN
 Лексическое	#l' $ k s' i tS' $ s k @ $	ADJECTIVE
+набор	#n A b o2 r	NOUN
+нашу	#n A1 S u	NOUN
 программирование	#p r @ g r V mm' i2 r @ v @ n' $ $	NOUN
-строки	#s t r o k' i2	NOUN
+строки	#s t r o o k' i	NOUN
 С++	#s i p l' }1 s p l' }1 s	NOUN
 текстовом	#t' e2 k s t V v o1 m	NOUN
+типами	#t' i2 p @ m' $	NOUN
 Arduino	#A1 r d u i2 n o	NOUN
 bison	#b i z o n	NOUN
+GNU	#g n u2	NOUN
+Linux	#l' i i n u k s	NOUN
+MinGW	#m' i1 n g e vv E1	NOUN
 NMEA	#n m E2 A	NOUN
+toolchain	#t u1 l dZ' E2 j n	NOUN
+WindowsXP	#v' i1 n d @ u s e k s p i	NOUN
